@@ -6,6 +6,8 @@
 		{
 			string result = weightInPounds.ToString();
 
+			// your solution/implementation should go in here
+
 			return result;
 		}
 	}
