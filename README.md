@@ -1,2 +1,2 @@
 # CSYE-6202
-Repository for CSYE 6202 coursework
+Please read PrimeNumbers.pdf file that is posted within this branch.
