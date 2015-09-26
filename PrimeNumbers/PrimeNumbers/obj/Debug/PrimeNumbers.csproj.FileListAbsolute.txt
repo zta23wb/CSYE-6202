@@ -7,3 +7,11 @@ c:\users\zta23wb\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\nunit.framework.dll
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\nunit.framework.xml
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\nunit.core.dll
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\nunit.core.interfaces.dll
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\nunit.util.dll
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrimeNumbers\PrimeNumbers\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
