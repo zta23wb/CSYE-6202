@@ -1,0 +1,12 @@
+c:\users\zta23wb\documents\visual studio 2015\Projects\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.exe.config
+c:\users\zta23wb\documents\visual studio 2015\Projects\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.exe
+c:\users\zta23wb\documents\visual studio 2015\Projects\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.pdb
+c:\users\zta23wb\documents\visual studio 2015\Projects\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.csprojResolveAssemblyReference.cache
+c:\users\zta23wb\documents\visual studio 2015\Projects\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.exe
+c:\users\zta23wb\documents\visual studio 2015\Projects\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.pdb
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.exe.config
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.exe
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.pdb
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.exe
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.pdb
+C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.csprojResolveAssemblyReference.cache
