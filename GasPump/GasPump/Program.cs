@@ -123,6 +123,7 @@ namespace GasPump
                 }
             }catch (Exception e)
             {
+                Console.WriteLine(e);
                 result = false;
             }
 			return result;
