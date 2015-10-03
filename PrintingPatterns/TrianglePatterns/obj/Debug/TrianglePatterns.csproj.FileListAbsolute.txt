@@ -1,1 +1,6 @@
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\TrianglePatterns\bin\Debug\TrianglePatterns.exe.config
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\TrianglePatterns\bin\Debug\TrianglePatterns.exe.config
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\TrianglePatterns\bin\Debug\TrianglePatterns.exe
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\TrianglePatterns\bin\Debug\TrianglePatterns.pdb
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\TrianglePatterns\obj\Debug\TrianglePatterns.exe
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\TrianglePatterns\obj\Debug\TrianglePatterns.pdb
