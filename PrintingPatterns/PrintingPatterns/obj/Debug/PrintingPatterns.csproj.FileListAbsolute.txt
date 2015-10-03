@@ -10,3 +10,6 @@ C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\ob
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.exe
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.pdb
 C:\Users\zta23wb\Desktop\CSYE6202\CSYE-6202\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.csprojResolveAssemblyReference.cache
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\PrintingPatterns\bin\Debug\PrintingPatterns.exe.config
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.exe
+C:\Users\zta23wb\Source\Repos\CSYE-6202_NEW\PrintingPatterns\PrintingPatterns\obj\Debug\PrintingPatterns.pdb
