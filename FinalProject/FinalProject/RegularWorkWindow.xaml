@@ -1,0 +1,14 @@
+﻿<Window x:Class="FinalProject.RegularWorkWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="RegularWorkWindow" Height="406.383" Width="696.809">
+    <Grid>
+        <Button x:Name="mngAppointmentBtn" Content="Manage Appointment" HorizontalAlignment="Left" Margin="214,78,0,0" VerticalAlignment="Top" Width="207" Click="mngAppointmentBtn_Click"/>
+        <Button x:Name="logOutBtn" Content="Log out" HorizontalAlignment="Left" Margin="63,319,0,0" VerticalAlignment="Top" Width="75" Click="logOutBtn_Click"/>
+
+    </Grid>
+</Window>

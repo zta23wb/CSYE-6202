@@ -1,0 +1,18 @@
+﻿<Window x:Class="FinalProject.AddEnterpriseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="Add Enterprise Window" Height="304.872" Width="505.336" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Name" HorizontalAlignment="Left" Margin="71,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Location" HorizontalAlignment="Left" Margin="71,149,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.478,1.502"/>
+        <TextBox x:Name="nameTxt" HorizontalAlignment="Left" Height="23" Margin="178,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" TextChanged="nameTxt_TextChanged"/>
+        <TextBox x:Name="locationTxt" HorizontalAlignment="Left" Height="23" Margin="178,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="addBtn" Content="Add" HorizontalAlignment="Left" Margin="263,222,0,0" VerticalAlignment="Top" Width="75" Click="addBtn_Click" IsDefault="True"/>
+        <Label x:Name="warningTxt" Content="" HorizontalAlignment="Left" Margin="71,110,0,0" VerticalAlignment="Top" Width="323"/>
+
+    </Grid>
+</Window>

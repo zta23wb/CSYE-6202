@@ -1,0 +1,26 @@
+﻿<Window x:Class="FinalProject.AddEnterpriseAdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="Add Enterprise Administrator Window" Height="376.596" Width="624.468" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="226*"/>
+            <ColumnDefinition Width="393*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Margin="45,287,0,0" VerticalAlignment="Top" Width="75" Click="backBtn_Click"/>
+        <Button x:Name="addBtn" Content="Add" HorizontalAlignment="Left" Margin="244.477,287,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Click="addBtn_Click" IsDefault="True"/>
+        <Label x:Name="label" Content="Enterprise" HorizontalAlignment="Left" Margin="45,47,0,0" VerticalAlignment="Top" Width="75"/>
+        <ComboBox x:Name="enterpriseCombo" HorizontalAlignment="Left" Margin="190,47,0,0" VerticalAlignment="Top" Width="197" Grid.ColumnSpan="2" SelectionChanged="enterpriseCombo_SelectionChanged" SelectedIndex="0"/>
+        <Label x:Name="Label" Content="Username" HorizontalAlignment="Left" Margin="45,94,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="Label_Copy" Content="Password" HorizontalAlignment="Left" Margin="45,139,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="Label_Copy1" Content="Name" HorizontalAlignment="Left" Margin="45,188,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="usernameTxt" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="190,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197"/>
+        <TextBox x:Name="passwordTxt" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="190,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197"/>
+        <TextBox x:Name="nameTxt" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="190,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197"/>
+
+    </Grid>
+</Window>

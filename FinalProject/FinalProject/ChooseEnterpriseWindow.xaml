@@ -1,0 +1,16 @@
+﻿<Window x:Class="FinalProject.ChooseEnterpriseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="Choose One Enterprise Window" Height="336.717" Width="481.671" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Enterprise" HorizontalAlignment="Left" Margin="43,76,0,0" VerticalAlignment="Top" Width="109"/>
+        <Button x:Name="logOutBtn" Content="Log out" HorizontalAlignment="Left" Margin="43,252,0,0" VerticalAlignment="Top" Width="75" Click="backBtn_Click"/>
+        <Button x:Name="goBtn" Content="Go" HorizontalAlignment="Left" Margin="369,252,0,0" VerticalAlignment="Top" Width="75" Click="goBtn_Click" IsDefault="True"/>
+        <ComboBox x:Name="enterpriseCombo" HorizontalAlignment="Left" Margin="157,76,0,0" VerticalAlignment="Top" Width="215" DisplayMemberPath="Name" SelectedIndex="0" SelectionChanged="enterpriseCombo_SelectionChanged"/>
+
+    </Grid>
+</Window>

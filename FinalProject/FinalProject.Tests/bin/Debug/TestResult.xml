@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\zne6v\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject.Tests\bin\Debug\FinalProject.Tests.dll" total="17" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-11" time="13:59:47">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8670" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DESKTOP-IT2IGLD" user="zne6v" user-domain="DESKTOP-IT2IGLD" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\zne6v\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject.Tests\bin\Debug\FinalProject.Tests.dll" executed="True" result="Success" success="True" time="0.153" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FinalProject" executed="True" result="Success" success="True" time="0.145" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.144" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="WhenUsingEcoSystem" executed="True" result="Success" success="True" time="0.087" asserts="0">
+                <results>
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.AuthenticaUser_NotValidInfo_ShouldReturnNull" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.AuthenticaUser_ValidInfo_ShouldReturnUseAccount" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.IUserfNameIsUnique_NotUniqueName_ShouldReturnFalse" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.IUserfNameIsUnique_UniqueName_ShouldReturnTrue" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.SearchAppointmentByGivenID_NotVaIidInformation_ShouldReturnNull" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.SearchAppointmentByGivenID_ValidInformation_ShouldReturnAppointment" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.SearchEnterprisedByGivenID_NOTValidID_ShouldReturnNull" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.SearchEnterprisedByGivenID_ValidID_ShouldReturnEnterprise" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.SearchUserByGivenID_ValidInformation_ShouldReturnUserAccount" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystem.SearchUserByGivenID_ValidInformation_ShouldReturnUserNull" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="WhenUsingEcoSystemHelper" executed="True" result="Success" success="True" time="0.051" asserts="0">
+                <results>
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.CalculateAge_CurrentDate_ShouldPass" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.CalculateAge_FutureDate_ShouldNotPass" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.CalculateAge_PastDate_ShouldPass" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.IfInputIsLegitBirthDate_CorrectDate_ShouldPass" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.IfInputIsLegitBirthDate_FutureDate_ShouldNotPass" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.IfInputIsLegitBirthDate_WrongDate_ShouldNotPass" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="FinalProject.Tests.WhenUsingEcoSystemHelper.IsThreeFieldsIsFilled_AllBlank_ShouldPass" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
